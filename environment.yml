@@ -1,0 +1,11 @@
+name: pyviz-env
+channels:
+  - conda-forge
+  - defaults
+  - pyviz 
+dependencies:
+  - hvplot
+  - seaborn
+  - panel
+  - jupyter-panel-proxy
+prefix: D:\Anaconda\envs\pyviz-env
